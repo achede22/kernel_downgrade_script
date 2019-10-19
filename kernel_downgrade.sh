@@ -1,5 +1,8 @@
-HD 
-2018
+
+#!/bin/bash
+
+# HD 
+#2018
 
 #### LINUX KERNEL DOWNGRADE (IF APPLICABLE)
 # - To list all the menu entries that will be displayed at system boot, issue the following command:
